@@ -2,5 +2,33 @@
     margin: 0;
 }
 body{
+    background-color: #AAAAAA;
     
+}
+.main{
+    text-align: center;
+    margin: 50px 25%;
+    border: 5px solid white;
+    
+}
+.top p{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    margin-bottom: 30px;
+    color: white;
+    
+}
+#inputs{
+  border: none;
+  outline: none;
+  background-color: transparent; /* Set the background color to transparent */
+  color: #000; /* Set the text color */
+  font-size: 16px;
+  padding: 10px;
+  width: 200px;
+}
+.top{
+    background-image: linear-gradient(90deg,purple,blue);
+    padding: 50px 50px;
 }
