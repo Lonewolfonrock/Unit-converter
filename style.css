@@ -50,3 +50,14 @@ body{
     color: rgb(10, 248, 10);
     margin: 20px;
 }
+
+@media (max-width: 800px){
+    .main{
+        margin: 5% 2%;
+        min-width: 400px;
+        
+    }
+    #inputs{
+        font-size: 18px;
+    }
+}
